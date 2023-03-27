@@ -1,0 +1,98 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience & Education
+
+  With over a decade of experience working with international organizations, 
+  I am a bilingual, friendly, reliable expert in driving growth and innovation.
+
+
+buttonName: "Download Resume PDF"
+buttonTarget: "/cv/resume-nic.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: >
+  
+      ### Business Development Analyst
+      
+      #### [Affiliated Distributors](https://www.business-science.io/) 
+      
+      - Proven success in recruiting 50 new clients and generating $1B in sales with Salesforce, 
+      contributing to record company growth during the pandemic.
+      
+      - Demonstrated expertise in data analysis as part of the business intelligence team, delivering 
+      insightful reports to 850+ clients with $60B in sales and supporting the company's success during challenging times.
+       
+    time: Jul 2019 - Oct 2022 
+  - content: >
+      ### Business Development Associate
+      
+      #### Wasmer Schroeder, a portfolio management service of Charles Schwab Asset Management
+
+      - Built and sustained business in the Mid-Atlantic region, resulting in a $150M increase in AUM for a 
+      Separately Managed Account (SMA) Fixed Income Manager.
+
+       - Boosted the firm's presence and differentiation at conferences and symposiums through over 50 successful 
+       office visits and effective representation.
+       
+    time: Aug 2015 - Jul 2019
+  - content: >
+      ### Associate Research Analyst 
+
+      #### Fortigent, a HNW platform of LPL Financial
+
+      - Strengthened partnerships with Institutional and RIA clients, leveraging strong interpersonal 
+      skills to build effective relationships with internal and external stakeholders.
+      
+      - Improved advisor satisfaction through training sessions, online portal demonstrations, implementation 
+      of customer feedback into software updates, and regular communication.
+      
+    time: Jan 2013 - Jul 2015
+  - content: >
+      ### Performance Reporting Analyst
+
+      #### Convergent Wealth Advisors
+
+      - Maintained and updated institutional and private equity reports, ensuring 100% timeliness for four 
+      consecutive quarters and increasing efficiency.
+      
+      - Earned recognition twice as an employee who embodies the firm's core value of teamwork.
+      
+    time: Jan 2013 - Jul 2015
+  - content: >
+      ### Institutional Consulting Analyst
+
+      #### Graystone Consulting, an institutional consulting busines of Morgan Stanley
+
+      - Analyzed quarterly investment performance returns for institutions, endowments, 
+      and HNW individuals, providing accurate and up-to-date performance data.
+      
+      - Developed and presented portfolio allocation proposals and pitch books to HNW and 
+      Institutional clients, demonstrating expertise in investment strategy and analysis.
+      
+    time: Jun 2008 - Mar 2011
+
+education:
+  - content: >
+      #### Bachelor of Business Administration (BBA)
+
+      Marymount University
+      
+  - content: >
+      #### Certified Data Scientist for Business
+
+      Business Science University
+    
+  - content: >
+      #### Sales and Business Development Professional Certification
+
+      Kellogg Executive Education
+ 
+  

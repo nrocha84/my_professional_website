@@ -1,0 +1,24 @@
+---
+enable: true
+topTitle: Data Scientist for Business
+content: >
+
+  # Hi I'm Nic
+
+  [Nic Rocha](https://www.linkedin.com/in/nic-rocha/) 
+  is a seasoned business development professional with 
+  a proven track record in recruiting and relationship 
+  building. With a background in data science, Nic has 
+  delivered actionable reports to 850 clients with $60B 
+  in sales, resulting in significant success during the 
+  pandemic. He's passionate about leveraging his unique 
+  blend of technical expertise and interpersonal skills 
+  to drive growth, impact, and actionable insights for businesses.
+  
+  
+buttonName: Contact Nic
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/Nicolas.png
+videoThumb: images/hero/data-science.gif
+videoURL:

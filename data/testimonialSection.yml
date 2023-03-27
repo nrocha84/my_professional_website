@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What Do Others Think of Me?
+
+testimonial:
+  - name: Matt Dancho
+    title: Founder of Business Science and Lead Educator at Business Science University
+    image: "/images/testimonial/matt.jpeg"
+    comment: "I had the pleasure of working with Nic over the past year as part of an accelerated data science program that has focused on applying data science to business. Nic has shown a high aptitude for data science, and he has a proven track record of success. I am confident that Nic will be an excellent fit for business development and data science positions that involve challenging business problems and a desire to make better business decisions."
+    star: 5
+  - name: Kevin Smith
+    title: Senior Vice President at Wealthspire Advisors
+    image: "/images/testimonial/kevin.jpeg"
+    comment: "I had the privilege of knowing Nic both personally and professionally for over eight years. During that time I have not come across a more caring and compassionate person. Nic truly cares about those surrounding him and it shows in his work. He is always willing to go the extra mile to help a teammate accomplish a task or goal. The care he takes can also be found in the timeliness of his follow through and attention to detail in the delivery of his work product. It goes without saying that Nic is the consummate team player and will bring with him an enthusiasm and excitement to succeed that any organization would be lucky to have."
+    star: 5
+  - name: Inessa Mischenko
+    title: Managing Director, Client Operations at Wealthspire Advisors
+    image: "/images/testimonial/inessa.jpeg"
+    comment: "I had the pleasure of working with Nic during his time as an Analyst at Convergent Wealth Advisors. Above all, I was impressed with Nic’s attention to detail, and his ability to work with the different departments across the organization to problem solve, and achieve results with the clients best interest in mind. Nic would be an asset to any team or organization."
+    star: 5
