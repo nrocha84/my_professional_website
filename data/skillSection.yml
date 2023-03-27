@@ -9,15 +9,15 @@ content: >
 image: images/hero/Nicolas.png
 
 skill:
- - title: Data Analysis
-   percent: 90
- - title: R Programming
-   percent: 90
- - title: Shiny/Dash Apps
-   percent: 90
  - title: Business Development
    percent: 95
+ - title: Data Analysis
+   percent: 90   
+ - title: R Programming
+   percent: 85
+ - title: Shiny/Dash Apps
+   percent: 85
  - title: AWS
-   percent: 85
+   percent: 80
  - title: Docker & Git
-   percent: 85
+   percent: 80
