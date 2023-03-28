@@ -31,7 +31,7 @@ params:
  # blogPageURL: blog
   contactButtonLabel: Contact Nic
   contactLink: '#contact'
-  copyright: All right reserved copyright © [Nic Rocha] [2023]
+  copyright: All right reserved copyright ©
   footerLogo: images/site-navigation/logonic.png
   formspreeURL: https://formspree.io/f/mvonbeok
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
