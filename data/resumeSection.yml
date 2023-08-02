@@ -19,15 +19,14 @@ tab2Target: education
 
 experience:
   - content: >
-  
-      ### Business Development Associate
+     ### Business Development Associate
       
-      #### [Affiliated Distributors](https://www.business-science.io/) 
+     #### [Affiliated Distributors](https://www.business-science.io/) 
      
-      - Implemented best practices for business development by utilizing Salesforce and integrated prospect engagement 
+     - Implemented best practices for business development by utilizing Salesforce and integrated prospect engagement 
         campaigns, resulting in 50 new clients and $1B in sales growth.
 
-      - Analyzed data and delivered insightful reports to 850+ clients across nine industries with $60B in North American Sales, 
+     - Analyzed data and delivered insightful reports to 850+ clients across nine industries with $60B in North American Sales, 
        contributing to the company’s success during challenging times.
     time: Jul 2019 - Oct 2022 
   - content: >
@@ -76,7 +75,7 @@ experience:
       
       - Developed and presented portfolio allocation proposals and pitchbooks to (U)HNW and Institutional clients,
         showing thoughtful insight into investment strategy and analysis.
-    time: Jun 2008 - Mar 2011
+     time: Jun 2008 - Mar 2011
 
 education:
   - content: >
