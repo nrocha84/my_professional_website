@@ -13,7 +13,7 @@ skill:
    percent: 95
  - title: Data Analysis
    percent: 90   
- - title: R Programming
+ - title: Data Science
    percent: 85
  - title: Shiny/Dash Apps
    percent: 85
