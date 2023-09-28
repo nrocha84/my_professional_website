@@ -19,6 +19,8 @@ skill:
    percent: 85
  - title: Shiny/Dash Apps
    percent: 85
+    title: SQL 
+   percent: 80
  - title: AWS
    percent: 80
  - title: Docker & Git
